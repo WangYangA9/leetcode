@@ -27,3 +27,7 @@
 输入: "{[]}"
 输出: true
 ```
+
+执行用时 : 6 ms, 在Valid Parentheses的Java提交中击败了81.89% 的用户
+
+内存消耗 : 33.7 MB, 在Valid Parentheses的Java提交中击败了92.40% 的用户
