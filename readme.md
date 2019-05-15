@@ -33,8 +33,8 @@
 - [ ] Medium	Friend Circles	https://leetcode.com/problems/friend-circles/
 - [ ] Medium	Accounts Merge	https://leetcode.com/problems/accounts-merge/
 ## 深度优先搜索
-- [ ] Easy	Maximum Depth of Binary Tree	https://leetcode.com/problems/maximum-depth-of-binary-tree
-- [ ] Easy	Path Sum	https://leetcode.com/problems/path-sum/
+- [x] Easy	Maximum Depth of Binary Tree	https://leetcode.com/problems/maximum-depth-of-binary-tree
+- [x] Easy	Path Sum	https://leetcode.com/problems/path-sum/
 - [ ] Medium	Path Sum II	https://leetcode.com/problems/path-sum-ii/
 - [ ] Medium	Surrounded Regions	https://leetcode.com/problems/surrounded-regions/
 - [ ] Medium	Number of Islands	https://leetcode.com/problems/number-of-islands/
