@@ -3,8 +3,8 @@
 ## 基础算法
 - [x] Easy	Two Sum	https://leetcode.com/problems/two-sum/
 - [x] Easy	Valid Parentheses	https://leetcode.com/problems/valid-parentheses/
-- [ ] Medium	Decode String	https://leetcode.com/problems/decode-string/
-- [ ] Hard	LRU Cache	https://leetcode.com/problems/lru-cache/submissions/
+- [x] Medium	Decode String	https://leetcode.com/problems/decode-string/
+- [x] Hard	LRU Cache	https://leetcode.com/problems/lru-cache/submissions/
 - [ ] Medium	Implement Trie (Prefix Tree)	https://leetcode.com/problems/implement-trie-prefix-tree/
 - [ ] Medium	Add and Search Word - Data structure design	https://leetcode.com/problems/add-and-search-word-data-structure-design/
 - [ ] Hard	Word Search II	https://leetcode.com/problems/word-search-ii/

@@ -6,10 +6,14 @@
 
 此外，你可以认为原始数据不包含数字，所有的数字只表示重复的次数 k ，例如不会出现像 3a 或 2[4] 的输入。
 
-``````
+```
 示例:
 
 s = "3[a]2[bc]", 返回 "aaabcbc".
 s = "3[a2[c]]", 返回 "accaccacc".
 s = "2[abc]3[cd]ef", 返回 "abcabccdcdcdef".
 ```
+
+执行用时 : 3 ms, 在Decode String的Java提交中击败了73.66% 的用户
+
+内存消耗 : 35.6 MB, 在Decode String的Java提交中击败了75.37% 的用户
