@@ -42,14 +42,14 @@
 - [ ] Medium	Distribute Coins in Binary Tree	https://leetcode.com/problems/distribute-coins-in-binary-tree/
 
 ## 回溯
-- [ ] Hard	N-Queens	https://leetcode.com/problems/n-queens/
+- [x] Hard	N-Queens	https://leetcode.com/problems/n-queens/
 - [ ] Hard	N-Queens II	https://leetcode.com/problems/n-queens-ii/
 - [ ] Medium	Sudoku Solver	https://leetcode.com/problems/sudoku-solver/
 - [ ] Hard	Unique Paths III	https://leetcode.com/problems/unique-paths-iii/
 - [ ] Medium	Word Search	https://leetcode.com/problems/word-search/
 
 ## 分治
-- [ ] Medium	Search a 2D Matrix II	https://leetcode.com/problems/search-a-2d-matrix-ii/
+- [x] Medium	Search a 2D Matrix II	https://leetcode.com/problems/search-a-2d-matrix-ii/
 - [ ] Medium	Merge k Sorted Lists	https://leetcode.com/problems/merge-k-sorted-lists
 - [ ] Medium	Different Ways to Add Parentheses	https://leetcode.com/problems/different-ways-to-add-parentheses
 - [ ] Hard	Expression Add Operators	https://leetcode.com/problems/expression-add-operators
