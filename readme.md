@@ -56,7 +56,7 @@
 - [ ] Medium	Kth Largest Element in an Array	https://leetcode.com/problems/kth-largest-element-in-an-array
 
 ## 动态规划
-- [ ] Easy	Min Cost Climbing Stairs	https://leetcode.com/problems/min-cost-climbing-stairs
+- [x] Easy	Min Cost Climbing Stairs	https://leetcode.com/problems/min-cost-climbing-stairs
 - [ ] Easy	Climbing Stairs	https://leetcode.com/problems/climbing-stairs
 - [ ] Easy	Unique Paths	https://leetcode.com/problems/unique-paths/
 - [ ] Medium	Minimum Path Sum	https://leetcode.com/problems/minimum-path-sum/
