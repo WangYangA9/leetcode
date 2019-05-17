@@ -50,14 +50,14 @@
 
 ## 分治
 - [x] Medium	Search a 2D Matrix II	https://leetcode.com/problems/search-a-2d-matrix-ii/
-- [ ] Medium	Merge k Sorted Lists	https://leetcode.com/problems/merge-k-sorted-lists
+- [x] Medium	Merge k Sorted Lists	https://leetcode.com/problems/merge-k-sorted-lists
 - [ ] Medium	Different Ways to Add Parentheses	https://leetcode.com/problems/different-ways-to-add-parentheses
 - [ ] Hard	Expression Add Operators	https://leetcode.com/problems/expression-add-operators
 - [ ] Medium	Kth Largest Element in an Array	https://leetcode.com/problems/kth-largest-element-in-an-array
 
 ## 动态规划
 - [x] Easy	Min Cost Climbing Stairs	https://leetcode.com/problems/min-cost-climbing-stairs
-- [ ] Easy	Climbing Stairs	https://leetcode.com/problems/climbing-stairs
+- [x] Easy	Climbing Stairs	https://leetcode.com/problems/climbing-stairs
 - [ ] Easy	Unique Paths	https://leetcode.com/problems/unique-paths/
 - [ ] Medium	Minimum Path Sum	https://leetcode.com/problems/minimum-path-sum/
 - [ ] Easy	Maximum Subarray	https://leetcode.com/problems/maximum-subarray/
