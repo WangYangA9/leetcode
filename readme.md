@@ -5,7 +5,7 @@
 - [x] Easy	Valid Parentheses	https://leetcode.com/problems/valid-parentheses/
 - [x] Medium	Decode String	https://leetcode.com/problems/decode-string/
 - [x] Hard	LRU Cache	https://leetcode.com/problems/lru-cache/submissions/
-- [ ] Medium	Implement Trie (Prefix Tree)	https://leetcode.com/problems/implement-trie-prefix-tree/
+- [x] Medium	Implement Trie (Prefix Tree)	https://leetcode.com/problems/implement-trie-prefix-tree/
 - [ ] Medium	Add and Search Word - Data structure design	https://leetcode.com/problems/add-and-search-word-data-structure-design/
 - [ ] Hard	Word Search II	https://leetcode.com/problems/word-search-ii/
 - [ ] Easy	Find the Difference	https://leetcode.com/problems/find-the-difference/
