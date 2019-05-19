@@ -3,9 +3,9 @@
 ## 基础算法
 - [x] Easy	Two Sum	https://leetcode.com/problems/two-sum/
 - [x] Easy	Valid Parentheses	https://leetcode.com/problems/valid-parentheses/
-- [ ] Medium	Decode String	https://leetcode.com/problems/decode-string/
-- [ ] Hard	LRU Cache	https://leetcode.com/problems/lru-cache/submissions/
-- [ ] Medium	Implement Trie (Prefix Tree)	https://leetcode.com/problems/implement-trie-prefix-tree/
+- [x] Medium	Decode String	https://leetcode.com/problems/decode-string/
+- [x] Hard	LRU Cache	https://leetcode.com/problems/lru-cache/submissions/
+- [x] Medium	Implement Trie (Prefix Tree)	https://leetcode.com/problems/implement-trie-prefix-tree/
 - [ ] Medium	Add and Search Word - Data structure design	https://leetcode.com/problems/add-and-search-word-data-structure-design/
 - [ ] Hard	Word Search II	https://leetcode.com/problems/word-search-ii/
 - [ ] Easy	Find the Difference	https://leetcode.com/problems/find-the-difference/
@@ -50,14 +50,14 @@
 
 ## 分治
 - [x] Medium	Search a 2D Matrix II	https://leetcode.com/problems/search-a-2d-matrix-ii/
-- [ ] Medium	Merge k Sorted Lists	https://leetcode.com/problems/merge-k-sorted-lists
+- [x] Medium	Merge k Sorted Lists	https://leetcode.com/problems/merge-k-sorted-lists
 - [ ] Medium	Different Ways to Add Parentheses	https://leetcode.com/problems/different-ways-to-add-parentheses
 - [ ] Hard	Expression Add Operators	https://leetcode.com/problems/expression-add-operators
 - [ ] Medium	Kth Largest Element in an Array	https://leetcode.com/problems/kth-largest-element-in-an-array
 
 ## 动态规划
 - [x] Easy	Min Cost Climbing Stairs	https://leetcode.com/problems/min-cost-climbing-stairs
-- [ ] Easy	Climbing Stairs	https://leetcode.com/problems/climbing-stairs
+- [x] Easy	Climbing Stairs	https://leetcode.com/problems/climbing-stairs
 - [ ] Easy	Unique Paths	https://leetcode.com/problems/unique-paths/
 - [ ] Medium	Minimum Path Sum	https://leetcode.com/problems/minimum-path-sum/
 - [ ] Easy	Maximum Subarray	https://leetcode.com/problems/maximum-subarray/
