@@ -6,11 +6,11 @@
 - [x] Medium	Decode String	https://leetcode.com/problems/decode-string/
 - [x] Hard	LRU Cache	https://leetcode.com/problems/lru-cache/submissions/
 - [x] Medium	Implement Trie (Prefix Tree)	https://leetcode.com/problems/implement-trie-prefix-tree/
-- [ ] Medium	Add and Search Word - Data structure design	https://leetcode.com/problems/add-and-search-word-data-structure-design/
-- [ ] Hard	Word Search II	https://leetcode.com/problems/word-search-ii/
-- [ ] Easy	Find the Difference	https://leetcode.com/problems/find-the-difference/
-- [ ] Easy	Word Pattern	https://leetcode.com/problems/word-pattern/
-- [ ] Easy	First Unique Character in a String	https://leetcode.com/problems/first-unique-character-in-a-string
+- [x] Medium	Add and Search Word - Data structure design	https://leetcode.com/problems/add-and-search-word-data-structure-design/
+- [x] Hard	Word Search II	https://leetcode.com/problems/word-search-ii/
+- [x] Easy	Find the Difference	https://leetcode.com/problems/find-the-difference/
+- [x] Easy	Word Pattern	https://leetcode.com/problems/word-pattern/
+- [x] Easy	First Unique Character in a String	https://leetcode.com/problems/first-unique-character-in-a-string
 - [ ] Medium	Longest Substring Without Repeating Characters	https://leetcode.com/problems/longest-substring-without-repeating-characters
 - [ ] Hard	Minimum Window Substring	https://leetcode.com/problems/minimum-window-substring/
 - [ ] Easy	Merge Two Sorted Lists	https://leetcode.com/problems/merge-two-sorted-lists
