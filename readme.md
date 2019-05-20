@@ -35,8 +35,8 @@
 ## 深度优先搜索
 - [x] Easy	Maximum Depth of Binary Tree	https://leetcode.com/problems/maximum-depth-of-binary-tree
 - [x] Easy	Path Sum	https://leetcode.com/problems/path-sum/
-- [ ] Medium	Path Sum II	https://leetcode.com/problems/path-sum-ii/
-- [ ] Medium	Surrounded Regions	https://leetcode.com/problems/surrounded-regions/
+- [x] Medium	Path Sum II	https://leetcode.com/problems/path-sum-ii/
+- [X] Medium	Surrounded Regions	https://leetcode.com/problems/surrounded-regions/
 - [ ] Medium	Number of Islands	https://leetcode.com/problems/number-of-islands/
 - [ ] Medium	Max Area of Island	https://leetcode.com/problems/max-area-of-island/
 - [ ] Medium	Distribute Coins in Binary Tree	https://leetcode.com/problems/distribute-coins-in-binary-tree/
