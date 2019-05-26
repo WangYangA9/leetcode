@@ -44,5 +44,13 @@ class Solution {
     public static void main(String[] args){
         Solution solution = new Solution();
         System.out.println(solution.climbStairs(3));
+
+
+        String aa = "aaa";
+        String bb = "aaa";
+        String cc = String.valueOf(bb);
+        String dd = cc;
+        String ee = "bbb";
+        String ss = null;
     }
 }

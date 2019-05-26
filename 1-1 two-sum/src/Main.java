@@ -9,5 +9,6 @@ public class Main {
         Solution solution = new Solution();
         int[] res = solution.twoSum(nums, 9);
         Arrays.stream(res).forEach(System.out::print);
+
     }
 }

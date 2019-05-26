@@ -35,7 +35,7 @@
 ## 深度优先搜索
 - [x] Easy	Maximum Depth of Binary Tree	https://leetcode.com/problems/maximum-depth-of-binary-tree
 - [x] Easy	Path Sum	https://leetcode.com/problems/path-sum/
-- [ ] Medium	Path Sum II	https://leetcode.com/problems/path-sum-ii/
+- [x] Medium	Path Sum II	https://leetcode.com/problems/path-sum-ii/
 - [ ] Medium	Surrounded Regions	https://leetcode.com/problems/surrounded-regions/
 - [ ] Medium	Number of Islands	https://leetcode.com/problems/number-of-islands/
 - [ ] Medium	Max Area of Island	https://leetcode.com/problems/max-area-of-island/
@@ -51,7 +51,7 @@
 ## 分治
 - [x] Medium	Search a 2D Matrix II	https://leetcode.com/problems/search-a-2d-matrix-ii/
 - [x] Medium	Merge k Sorted Lists	https://leetcode.com/problems/merge-k-sorted-lists
-- [ ] Medium	Different Ways to Add Parentheses	https://leetcode.com/problems/different-ways-to-add-parentheses
+- [x] Medium	Different Ways to Add Parentheses	https://leetcode.com/problems/different-ways-to-add-parentheses
 - [ ] Hard	Expression Add Operators	https://leetcode.com/problems/expression-add-operators
 - [ ] Medium	Kth Largest Element in an Array	https://leetcode.com/problems/kth-largest-element-in-an-array
 
