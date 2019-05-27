@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 
 /**
@@ -7,6 +10,11 @@ import java.util.List;
  */
 class Solution {
     public List<String> addOperators(String num, int target) {
+        List<String> res = new ArrayList<>();
+        return res;
+    }
 
+    public static void main(String[] args){
+        Collections.sort();
     }
 }
