@@ -1,3 +1,6 @@
+import java.util.Collections;
+import java.util.concurrent.ConcurrentHashMap;
+
 /**
  * @Author: WangYang
  * @Date: 2019/5/27 20:39
@@ -23,5 +26,7 @@ public class SelectSort {
         SortUtil.print(a);
         SelectSort.simpleSelectSort(a);
         SortUtil.print(a);
+        ConcurrentHashMap<String, String> map = new ConcurrentHashMap<>();
+
     }
 }
