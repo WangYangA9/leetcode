@@ -11,26 +11,26 @@
 - [x] Easy	Find the Difference	https://leetcode.com/problems/find-the-difference/
 - [x] Easy	Word Pattern	https://leetcode.com/problems/word-pattern/
 - [x] Easy	First Unique Character in a String	https://leetcode.com/problems/first-unique-character-in-a-string
-- [ ] Medium	Longest Substring Without Repeating Characters	https://leetcode.com/problems/longest-substring-without-repeating-characters
-- [ ] Hard	Minimum Window Substring	https://leetcode.com/problems/minimum-window-substring/
-- [ ] Easy	Merge Two Sorted Lists	https://leetcode.com/problems/merge-two-sorted-lists
-- [ ] Easy	Linked List Cycle	https://leetcode.com/problems/linked-list-cycle
-- [ ] Medium	"Linked List Cycle II	"	https://leetcode.com/problems/linked-list-cycle-ii
-- [ ] Easy	Reverse Linked List	https://leetcode.com/problems/reverse-linked-list
-- [ ] Medium	Reverse Linked List II	https://leetcode.com/problems/reverse-linked-list-ii
-- [ ] Medium	Rotate List	https://leetcode.com/problems/rotate-list
-- [ ] Medium	Swap Nodes in Pairs	https://leetcode.com/problems/swap-nodes-in-pairs
-- [ ] Easy	Sort Array By Parity	https://leetcode.com/problems/sort-array-by-parity/
-- [ ] Easy	Sort Array By Parity II	https://leetcode.com/problems/sort-array-by-parity-ii/
-- [ ] Easy	Squares of a Sorted Array	https://leetcode.com/problems/squares-of-a-sorted-array/
-- [ ] Easy	Peak Index in a Mountain Array	https://leetcode.com/problems/peak-index-in-a-mountain-array
-- [ ] Hard	Search in Rotated Sorted Array	https://leetcode.com/problems/search-in-rotated-sorted-array
-- [ ] Medium	Search in Rotated Sorted Array II	https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
-- [ ] Medium	Find Minimum in Rotated Sorted Array	https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-- [ ] Hard	Find Minimum in Rotated Sorted Array II	https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
-- [ ] Medium	Search a 2D Matrix	https://leetcode.com/problems/search-a-2d-matrix
-- [ ] Medium	Satisfiability of Equality Equations	https://leetcode.com/problems/satisfiability-of-equality-equations/
-- [ ] Medium	Friend Circles	https://leetcode.com/problems/friend-circles/
+- [x] Medium	Longest Substring Without Repeating Characters	https://leetcode.com/problems/longest-substring-without-repeating-characters
+- [x] Hard	Minimum Window Substring	https://leetcode.com/problems/minimum-window-substring/
+- [x] Easy	Merge Two Sorted Lists	https://leetcode.com/problems/merge-two-sorted-lists
+- [x] Easy	Linked List Cycle	https://leetcode.com/problems/linked-list-cycle
+- [x] Medium	"Linked List Cycle II	"	https://leetcode.com/problems/linked-list-cycle-ii
+- [x] Easy	Reverse Linked List	https://leetcode.com/problems/reverse-linked-list
+- [x] Medium	Reverse Linked List II	https://leetcode.com/problems/reverse-linked-list-ii
+- [x] Medium	Rotate List	https://leetcode.com/problems/rotate-list
+- [x] Medium	Swap Nodes in Pairs	https://leetcode.com/problems/swap-nodes-in-pairs
+- [x] Easy	Sort Array By Parity	https://leetcode.com/problems/sort-array-by-parity/
+- [x] Easy	Sort Array By Parity II	https://leetcode.com/problems/sort-array-by-parity-ii/
+- [x] Easy	Squares of a Sorted Array	https://leetcode.com/problems/squares-of-a-sorted-array/
+- [x] Easy	Peak Index in a Mountain Array	https://leetcode.com/problems/peak-index-in-a-mountain-array
+- [x] Hard	Search in Rotated Sorted Array	https://leetcode.com/problems/search-in-rotated-sorted-array
+- [x] Medium	Search in Rotated Sorted Array II	https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+- [x] Medium	Find Minimum in Rotated Sorted Array	https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+- [x] Hard	Find Minimum in Rotated Sorted Array II	https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+- [x] Medium	Search a 2D Matrix	https://leetcode.com/problems/search-a-2d-matrix
+- [x] Medium	Satisfiability of Equality Equations	https://leetcode.com/problems/satisfiability-of-equality-equations/
+- [x] Medium	Friend Circles	https://leetcode.com/problems/friend-circles/
 - [ ] Medium	Accounts Merge	https://leetcode.com/problems/accounts-merge/
 ## 深度优先搜索
 - [x] Easy	Maximum Depth of Binary Tree	https://leetcode.com/problems/maximum-depth-of-binary-tree
